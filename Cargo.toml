@@ -1,0 +1,8 @@
+[package]
+name = "quaternion-ops"
+version = "0.1.0"
+authors = ["HamaguRe <space-denpa.jp>"]
+edition = "2018"
+
+[dependencies]
+quaternion = {git="https://github.com/HamaguRe/quaternion.git", rev="019339ab48903b78856d208ed91323fb50177491"}
